@@ -1,5 +1,5 @@
 body{
-    background-color: #8e74be;
+    background-color: #754bc4;
     margin: 0;
 }
 
@@ -20,10 +20,8 @@ body{
 
 .pfp:hover {
     position:relative;
-    top:-25px;
-    left:-35px;
     width:500px;
     height:auto;
-    display:block;
+    display:flex;
     z-index:999;
 }
