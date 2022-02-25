@@ -1,6 +1,7 @@
 body{
-    background-color: #754bc4;
+    background-color: rgb(118, 26, 194);
     margin: 0;
+
 }
 
 .flex{
@@ -19,9 +20,6 @@ body{
 }
 
 .pfp:hover {
-    position:relative;
-    width:500px;
-    height:auto;
-    display:flex;
-    z-index:999;
+    width: 35em;
+    height: 35em;
 }
